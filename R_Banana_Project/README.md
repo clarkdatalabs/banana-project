@@ -17,7 +17,7 @@ bananas_clean <- bananas[,c("Area",
                           "Flag.Description")]
 ```
 
-Belgium-Luxembourg exports divorce after 2000, so in order to extend our data to account for post-2000, we combine the individual exports Belgium and Luxemberg;
+Belgium-Luxembourg exports divorce after 2000, so in order to extend data to account for post-2000, combine individual exports from Belgium and Luxemberg;
 ```
 #2000
 bananas_clean$Value[1] <- bananas_clean$Value[1] + bananas_clean$Value[92]
