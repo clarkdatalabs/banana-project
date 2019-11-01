@@ -92,3 +92,7 @@ gbanana <- ggplot(data = bananas_clean, aes(x = Year, y = Value))+
 gbanana
 ```
 Got it!
+
+## Export
+1) Click "Export" above your graph
+2) Opt to "Save as Image/PDF"
