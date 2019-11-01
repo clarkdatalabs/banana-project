@@ -114,7 +114,7 @@ for area in banana["Area"]:
 
 11 areas are listed below: 'Belgium-Luxembourg', 'Cameroon', 'Colombia', 'Costa Rica', 'Ecuador', 'Guatemala', 'Honduras', 'Panama', 'Philippines', 'United Arab Emirates', 'United States of America'.
 
-we have values in $1000 USD and tonnes / etc. We use 2 data sets stores different value types
+We have values in $1000 USD and tonnes / etc. We use 2 data sets stores different value types
 ```
 banana1=banana[banana['Unit']=='tonnes']
 banana2=banana[banana['Unit']=='1000 US$']
@@ -128,7 +128,7 @@ min(banana1['Value'])
 min(banana2['Value'])
 ```
 
-## make figure
+## Make figure
 ```
 fig_dict = {
     "data": [],
@@ -228,7 +228,7 @@ for area in Area:
     }
     fig_dict["data"].append(data_dict)
  ```
- ## make frames
+ ## Make frames
  ```
 for year in years:
     frame = {"data": [], "name": str(year)}
