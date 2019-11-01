@@ -42,7 +42,7 @@ bananas_clean <- bananas_clean %>% arrange(Area, Year)
 ```
 
 ## Run
-Install plotly
+Install plotly;
 ```
 install.packages("plotly")
 library(plotly)
@@ -67,6 +67,6 @@ plot
 
 ## Export
 1) Click "Export" above your graph
-2) Opt to "Save as webpage..." 
+2) Opt to "Save as webpage..."
 3) This will save a webpage as an html file to your computer. Clicking this will open a tab on your web browser with an interactive chart.
 
