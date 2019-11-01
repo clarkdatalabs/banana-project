@@ -5,7 +5,7 @@
   <img src="https://github.com/hopetambala/dps-banana-project/blob/master/resources/banana_graph.png" width="40%" />
 </p>
 
-# Demos
+## Demos
 [R Data Visualization](https://clarkdatalabs.github.io/banana-project/R_Banana_Project/docs/)
 
 ## Context
