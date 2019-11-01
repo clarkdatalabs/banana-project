@@ -10,7 +10,7 @@
 
 [Python Line Chart Visualization](https://clarkdatalabs.github.io/banana-project/Python_Banana_Project/docs/linechart/)
 
-[Python Line Chart(improved) Visualization](https://clarkdatalabs.github.io/banana-project/Python_Banana_Project/docs/linechart/)
+[Python Line Chart(improved) Visualization](https://clarkdatalabs.github.io/banana-project/Python_Banana_Project/docs/linechart-improved/)
 
 [Python Animation Visualization](https://clarkdatalabs.github.io/banana-project/Python_Banana_Project/docs/animation/)
 
