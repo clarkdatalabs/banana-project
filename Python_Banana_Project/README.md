@@ -104,7 +104,7 @@ Basic informaion about the data set 'banana'
 banana.info
 ```
 
-## make list of areas
+## Make list of areas
 ```
 Area = []
 for area in banana["Area"]:
