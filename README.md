@@ -20,4 +20,4 @@ Thirdly, the color is coded by year instead of by country. Typical practice woul
 
 Finally, the use of bananas as a background image, while topical, contributes to visual overload and makes it hard to immediately understand what’s going on.
 
-Glancing at the line graphs (full tutorials in both Python and R included), one can get the same information in a more easily digestible format. With a 2-dimensional line chart no country is shrouded, and the dynamics between years is better portrayed than in a box plot. Scrolling over the graph gives helpful information in regards to year, country, and export value. 
+Glancing at the line graphs (full plotly tutorials in Python and R included), one can get the same information in a more easily digestible format. With a 2-dimensional line chart no country is shrouded, and the dynamics between years is better portrayed than in a box plot. Scrolling over the graph gives helpful information in regards to year, country, and export value. 
