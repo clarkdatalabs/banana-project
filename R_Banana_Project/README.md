@@ -10,11 +10,11 @@ attach(bananas_clean)
 Subset the dataset for the variables of interest; (optional)
 ```
 bananas_clean <- bananas[,c("Area", 
-                          "Item", 
-                          "Year", 
-                          "Unit",
-                          "Value",
-                          "Flag.Description")]
+                            "Item", 
+                            "Year", 
+                            "Unit",
+                            "Value",
+                            "Flag.Description")]
 ```
 
 Belgium-Luxembourg exports divorce after 2000, so in order to extend data to account for post-2000, combine individual exports from Belgium and Luxemberg;
