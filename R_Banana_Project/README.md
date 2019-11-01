@@ -35,9 +35,10 @@ bananas_clean$Value[6] <- bananas_clean$Value[6] + bananas_clean$Value[97]
 
 Rename Belgium to Belgium-Luxembourg, drop Luxembourg, and rearrange the rows to be in correct order;
 ```
-bananas_clean$Area <- gsub("Belgium", "Belgium-Luxembourg", bananas_clean$Area)
-bananas_clean$Area <- gsub("Belgium-Luxembourg-Luxembourg", "Belgium-Luxembourg", bananas_clean$Area)
-bananas_clean <- bananas_clean[-c(92,93,94,95,96,97),]
+bananas_clean[1:6,1] <- "Belgium-Luxembourg"
+bananas_clean <- bananas_clean[-c(92:97),]
+
+library(dplyr)
 bananas_clean <- bananas_clean %>% arrange(Area, Year)
 ```
 
