@@ -5,10 +5,13 @@
   <img src="https://github.com/hopetambala/dps-banana-project/blob/master/resources/banana_graph.png" width="40%" />
 </p>
 
-# Context
+# Demos
+[R Data Visualization](https://clarkdatalabs.github.io/banana-project/R_Banana_Project/docs/)
+
+## Context
 The most environmentally-friendly way of transporting certain foods intercontinentally is through the use of reefers. A reefer, or a refrigerated ship used for overseas transport of perishable goods, constitute the main source of transport for the banana trade. It was the invention of the refrigerated reefer ship that first brought Jamaican bananas to the English in 1897. Before then, bananas could only be shipped relatively short distances. This graph takes a look at the banana exports by various countries between 1994 - 2005. Data is derived from the United States Food and Agriculture Organization (FAO).
 
-# Explanation
+## Explanation
 The first graph is particularly misleading. For example, while the graph says 1994-2005, the graph itself actually starts in 1993. Looking at the boxes listed between 1993-1994, Ecuador has just over 3 million banana exports; on the other hand, the banana exports for 1993 were actually only 2.5 million. These dynamics are better captured in a line plot than can not be portrayed in a 3-dimensional bar graph. 
 
 Secondly, country levels in the back of the plot may be veiled by other country data, which could be confusing. 
