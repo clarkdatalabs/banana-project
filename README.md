@@ -13,7 +13,7 @@ The first graph is particularly misleading. For example, while the graph says 19
 
 Secondly, country levels in the back of the plot may be veiled by other country data, which could be confusing. 
 
-Thirdly, the color is coded by year instead of by country (typical practice would be to denote countries with different colors).
+Thirdly, the color is coded by year instead of by country. Typical practice would be to denote countries with different colors.
 
 Finally, the use of bananas as a background image, while topical, contributes to the visual overload being presented and makes it hard to immediately understand what’s going on.
 
