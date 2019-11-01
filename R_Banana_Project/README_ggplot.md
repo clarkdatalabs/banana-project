@@ -94,5 +94,6 @@ gbanana
 Got it!
 
 ## Export
-1) Click "Export" above your graph
-2) Opt to "Save as Image/PDF"
+Click "Export" above your graph and save as Image/PDF
+
+Done!
