@@ -76,6 +76,9 @@ Show the plot
 ```
 fig.show()
 ```
+
+Customrize the color of those lines can make the plot become more readable. Just as the 'line chart_by group' plot shows.
+
 # Python script for animation over time
 
 This script is to generate a line plot about banana exportation for 11 countries during 1994-2005.
