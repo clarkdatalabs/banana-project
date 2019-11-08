@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: banana_project
 category: Line Plots
 tags: [R, Python]
