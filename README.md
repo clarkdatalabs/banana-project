@@ -1,3 +1,10 @@
+---
+layout: post
+title: banana_project
+category: Line Plots
+tags: [R, Python]
+---
+
 # dps-banana-project
 
 [Source for Inspiration](https://de.wikipedia.org/wiki/Kühlschifffahrt)
