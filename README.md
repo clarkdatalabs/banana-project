@@ -1,6 +1,7 @@
 ---
 layout: post
 title: banana_project
+name: banana_project
 category: Line Plots
 tags: [R, Python]
 ---
