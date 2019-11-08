@@ -1,4 +1,3 @@
----
 layout: default
 title: banana_project
 category: Line Plots
