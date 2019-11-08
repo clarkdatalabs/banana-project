@@ -1,4 +1,5 @@
-layout: default
+---
+layout: post
 title: banana_project
 category: Line Plots
 tags: [R, Python]
