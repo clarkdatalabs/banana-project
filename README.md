@@ -2,7 +2,7 @@
 layout: post
 title: banana_project
 name: banana_project
-category: Line Plots
+categories: Line Plots
 tags: [R, Python]
 ---
 
