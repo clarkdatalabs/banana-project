@@ -6,7 +6,7 @@ categories: Line Plots
 tags: [R, Python]
 ---
 
-# dps-banana-project
+# banana-project
 
 [Source for Inspiration](https://de.wikipedia.org/wiki/Kühlschifffahrt)
 <p align="middle">
